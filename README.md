@@ -4,7 +4,8 @@
 alt="Get it on F-Droid"
 height="80">](https://f-droid.org/packages/de.simon.dankelmann.bluetoothlespam/)
 
-# **DISCLAIMER! This repository is not mine, and was copied from simondankelmann at https://github.com/simondankelmann/Bluetooth-LE-Spam, this repository was made just to save it for personal testing**
+# **DISCLAIMER! **
+This repository is not mine, and was copied from simondankelmann at https://github.com/simondankelmann/Bluetooth-LE-Spam, this repository was made just to save it for personal testing
 
 This project uses the built-in Bluetooth Low Energy (BLE) functionality built into Android devices
 to create Phantom Bluetooth Device Advertisements, similar to what is known, for instance, in the case of the Flipper Zero.
